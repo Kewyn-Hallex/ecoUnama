@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>cadastre seu lixo aqui</h1>
+    <h1>cadastre seu lixo aqui</h1>
 </body>
 </html>
