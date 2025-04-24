@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="styles/sobre.css">
     <link rel="stylesheet" href="styles/info.css">
     <link rel="stylesheet" href="styles/saibaMais.css">
+    <link rel="stylesheet" href="styles/footer.css">
 
     <title>SerRecicla</title>
 </head>
@@ -34,7 +35,7 @@
                 <ul class="nav-list">
                     <li><a class="topicos" href="#initPage">INICIO</a></li>
                     <li><a class="topicos" href="#sobre">SOBRE</a></li>
-                    <li><a class="topicos" href="#contatos">CONTATOS</a></li>
+                    <li><a class="topicos" href="#contacts">CONTATOS</a></li>
                     <li><a class="topicos" href="#saibaMais">SERVICOS</a></li>
                 </ul>
             </nav>
@@ -143,6 +144,36 @@
         </div>
     </section>
 
+    <section class="footer hidden-up" id="contacts">
+        <footer class="footer">
+            <div class="waves">
+                <div class="wave" id="wave1"></div>
+                <div class="wave" id="wave2"></div>
+                <div class="wave" id="wave3"></div>
+                <div class="wave" id="wave4"></div>
+            </div>
+            <ul class="social-icon">
+                <li class="social-icon__item"><a class="social-icon__link" href="https://www.facebook.com/UnamaOficial">
+                        <i class="bi bi-facebook"></i>
+                    </a></li>
+                <li class="social-icon__item"><a class="social-icon__link" href="https://www.linkedin.com/school/unama/posts/?feedView=all">
+                        <i class="bi bi-linkedin"></i>
+                    </a></li>
+                <li class="social-icon__item"><a class="social-icon__link" href="https://www.instagram.com/computacaounamabelem?igsh=dmU1a21lOWF2b3d1">
+                        <i class="bi bi-instagram"></i>
+                    </a></li>
+            </ul>
+            <ul class="menu">
+                <li class="menu__item"><a class="menu__link" href="#initPage">Home</a></li>
+                <li class="menu__item"><a class="menu__link" href="#sobre">About</a></li>
+                <li class="menu__item"><a class="menu__link" href="#saibaMais">Services</a></li>
+                <li class="menu__item"><a class="menu__link" href="img/team.txt" download="team">Team</a></li>
+                <li class="menu__item"><a class="menu__link" href="#contacts">Contact</a></li>
+
+            </ul>
+            <p>&copy;2025 Cataquese | All Rights Reserved</p>
+        </footer>
+    </section>
 
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.min.js" integrity="sha384-VQqxDN0EQCkWoxt/0vsQvZswzTHUVOImccYmSyhJTp7kGtPed0Qcx8rK9h9YEgx+" crossorigin="anonymous"></script>
